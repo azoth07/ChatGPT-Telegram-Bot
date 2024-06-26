@@ -2,7 +2,7 @@
 <img src="./assets/logo-3071751.jpg">
 </p>
 
-# 🤖️ ChatGPT Telegram Bot
+# 🤖️ ChatGPT Telegram Bots
 
 <p align="center">
   <a href="https://t.me/+_01cz9tAkUc1YzZl">
