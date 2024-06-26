@@ -579,10 +579,10 @@ async def unknown(update, context): # 当用户输入未知命令时，返回文
 
 async def post_init(application: Application) -> None:
     await application.bot.set_my_commands([
-        BotCommand('info', 'basic information'),
-        BotCommand('reset', 'Reset the bot'),
-        BotCommand('en2zh', 'translate to Chinese'),
-        BotCommand('zh2en', 'translate to English'),
+        #BotCommand('info', 'basic information'),
+        #BotCommand('reset', 'Reset the bot'),
+        #BotCommand('en2zh', 'translate to Chinese'),
+        #BotCommand('zh2en', 'translate to English'),
         # BotCommand('search', 'search Google or duckduckgo'),
         BotCommand('start', 'Start the bot'),
     ])
